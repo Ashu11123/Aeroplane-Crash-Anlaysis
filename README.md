@@ -24,7 +24,7 @@ A graph was created to depict the relationship between fatalities and the number
 # 5 Most Crashes and Fatalities by Operator: 
 Graphs were generated to identify the operators with the highest number of crashes and fatalities. This analysis sheds light on the safety records of different airline operators.
 ![Screenshot 2024-04-27 140446](https://github.com/Ashu11123/Aeroplane-Crash-Anlaysis/assets/142722498/9778f26b-6b75-49d8-a5fb-4d9e157318db)
-#6 Fatalities and Crashes by Military and Civilian: 
+# 6 Fatalities and Crashes by Military and Civilian: 
 The fatalities and crash counts were compared between military and civilian aircraft. This comparison provides insights into the safety performance of military and civilian aviation sectors.
 ![Screenshot 2024-04-27 140535](https://github.com/Ashu11123/Aeroplane-Crash-Anlaysis/assets/142722498/186cbdae-c45c-4b9e-959c-429cf832864b)
 ![Screenshot 2024-04-27 140516](https://github.com/Ashu11123/Aeroplane-Crash-Anlaysis/assets/142722498/e37d3435-0c7c-454c-a8e1-7f25a23afd45)
