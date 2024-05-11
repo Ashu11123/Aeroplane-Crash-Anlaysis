@@ -7,21 +7,21 @@ The project is structured as follows:
  # 1 Data Cleaning:
 The dataset was cleaned to ensure accuracy and consistency in the analysis. This involved handling missing values, correcting data types, and removing any duplicates or irrelevant entries.
 
-#2 Crash Count Over the Years:
+# 2 Crash Count Over the Years:
 A line plot was generated to visualize the trend of airplane crash occurrences over the years. This analysis provides insights into the overall pattern of airplane crashes throughout the 20th and early 21st centuries.
 
 
 ![Screenshot 2024-04-27 140209](https://github.com/Ashu11123/Aeroplane-Crash-Anlaysis/assets/142722498/90b72c5c-c11a-4cb6-9be8-bc90c15da292)
 # 3 Fatality Analysis:
 
-A pie chart was created to illustrate the distribution of fatalities versus survivors across all recorded airplane crashes. This visualization highlights the proportion of fatalities compared to the number of survivors.
-Ground fatalities were examined separately to understand the impact of airplane crashes on the ground.
-A pie chart comparison was made between ground fatalities resulting from the 9/11 attacks and ground fatalities from other airplane crashes, offering insights into the severity of ground fatalities in different scenarios.
+o. A pie chart was created to illustrate the distribution of fatalities versus survivors across all recorded airplane crashes. This visualization highlights the proportion of fatalities compared to the number of survivors.
+0. Ground fatalities were examined separately to understand the impact of airplane crashes on the ground.
+0. A pie chart comparison was made between ground fatalities resulting from the 9/11 attacks and ground fatalities from other airplane crashes, offering insights into the severity of ground fatalities in different scenarios.
 ![Screenshot 2024-04-27 140304](https://github.com/Ashu11123/Aeroplane-Crash-Anlaysis/assets/142722498/6472d296-d44f-42e7-a180-4965bf2c4f84)
-%4 Fatalities and Abroad Passengers: 
+# 4 Fatalities and Abroad Passengers: 
 A graph was created to depict the relationship between fatalities and the number of passengers abroad. This visualization helps understand the correlation between these two variables in airplane crashes.
 ![Screenshot 2024-04-27 140352](https://github.com/Ashu11123/Aeroplane-Crash-Anlaysis/assets/142722498/2c5f2487-0e62-4fbd-9009-408eebfeaf67)
-#5 Most Crashes and Fatalities by Operator: 
+# 5 Most Crashes and Fatalities by Operator: 
 Graphs were generated to identify the operators with the highest number of crashes and fatalities. This analysis sheds light on the safety records of different airline operators.
 ![Screenshot 2024-04-27 140446](https://github.com/Ashu11123/Aeroplane-Crash-Anlaysis/assets/142722498/9778f26b-6b75-49d8-a5fb-4d9e157318db)
 #6 Fatalities and Crashes by Military and Civilian: 
